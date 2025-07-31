@@ -57,6 +57,10 @@ This project uses a deep learning model built with TensorFlow to classify movie 
 
 ---
 
+## Output
+<img width="1152" height="593" alt="image (1)" src="https://github.com/user-attachments/assets/fcd9db34-b467-41dc-b0e4-8572f7591578" />
+
+
 ##  Conclusion
 
 This project serves as a hands-on demonstration of building and evaluating deep learning models using TensorFlow and Keras. By working through this notebook, you’ll gain practical experience with model architecture design, training, and performance evaluation. It’s a solid foundation for anyone looking to deepen their understanding of applied machine learning and deep learning techniques.
