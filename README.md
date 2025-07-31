@@ -1,9 +1,26 @@
 # Deep Learning 
 
-This repository contains a Jupyter Notebook implementing deep learning concepts and models using Python, TensorFlow/Keras, and other machine learning libraries. It is part of a series of practice notebooks for machine learning and deep learning training.
+
+##  Project Overview
+
+This project uses a deep learning model built with TensorFlow to classify movie reviews as positive or negative. The model was trained on a dataset of IMDB reviews and can predict the sentiment of any new movie review entered by the user. The Streamlit app makes it easy to interact with the model through a user-friendly interface. 
 
 ---
 
+## How to Run Locally (in Google Colab)
+1.Install Streamlit:
+```
+!pip install streamlit -q
+```
+2.Check your public IP (optional):
+```
+
+!wget -q -O - ipv4.icanhazip.com
+```
+3.Run the Streamlit app and tunnel it using LocalTunnel:
+```
+!streamlit run app.py & npx localtunnel --port 8501
+```
 ##  File
 
 - **ML_PT(DEEP_L_2).ipynb**  
